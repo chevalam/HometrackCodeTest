@@ -1,0 +1,3 @@
+1. Using a (readable) stream might be a cleaner choice when dealing with payload instead of arrays.
+2. assert() module needs to be used to test the values passed to payload
+3. performance metrics would have to be captured to test the production might

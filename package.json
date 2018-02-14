@@ -1,0 +1,29 @@
+{
+  "name": "codetest",
+  "version": "1.0.0",
+  "description": "Hometrack Code test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hometrack/codetest.git"
+  },
+  "keywords": [
+    "concataddress",
+    "type",
+    "workflow"
+  ],
+  "author": "Srikanth Chevalam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hometrack/codetest/issues"
+  },
+  "homepage": "https://github.com/Hometrack/codetest#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
